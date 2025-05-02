@@ -1,4 +1,4 @@
-# <p align="center">🚀 JUnit 5 Testing Assignment </p>
+# <p align="center">💻 JUnit 5 Testing Assignment </p>
 This repository contains the solution for Homework Assignment #2 for the course Software Testing and Quality Assurance at Najah University.
 
 ## 📌 Assignment Overview
