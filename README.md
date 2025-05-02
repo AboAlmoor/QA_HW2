@@ -1,3 +1,6 @@
+# <p align="center">🚀 JUnit 5 Testing Assignment </p>
+This repository contains the solution for Homework Assignment #2 for the course Software Testing and Quality Assurance at Najah University.
+
 This project implements a JUnit 5 test suite that covers the following classes from main.najah.code:
 Calculator.
 Product.
